@@ -1,1 +1,2 @@
 This is me learning git again :)
+We changed some more stuff. 
